@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, my name is TashuerBoy, i like to program interesting games.
+
 
 <!--
 **mikailmagomedov/mikailmagomedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
