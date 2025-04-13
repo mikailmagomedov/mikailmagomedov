@@ -1,4 +1,4 @@
-## Hi there, my name is TashuerBoy, i like to program interesting games.
+## Hi there, my name is TashyerBoy, i like to program interesting games.
 
 
 <!--
